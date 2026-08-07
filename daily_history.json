@@ -475,9 +475,9 @@
       },
       "달러인덱스": {
         "sym": "DX-Y.NYB",
-        "price": 99.98,
-        "chg1d": 0.29,
-        "chg3d": 0.02
+        "price": 99.97,
+        "chg1d": 0.28,
+        "chg3d": 0.01
       },
       "USD/KRW": {
         "sym": "KRW=X",
@@ -487,15 +487,15 @@
       },
       "WTI 원유": {
         "sym": "CL=F",
-        "price": 78.09,
-        "chg1d": 3.82,
-        "chg3d": -2.8
+        "price": 77.29,
+        "chg1d": 2.75,
+        "chg3d": -3.8
       },
       "금": {
         "sym": "GC=F",
-        "price": 4292.4,
-        "chg1d": 1.1,
-        "chg3d": 6.41
+        "price": 4242.0,
+        "chg1d": -0.09,
+        "chg3d": 5.16
       },
       "SPY": {
         "sym": "SPY",
