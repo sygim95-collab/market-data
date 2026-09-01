@@ -470,32 +470,32 @@
       "10Y 국채": {
         "sym": "^TNX",
         "price": 4.76,
-        "chg1d": 0.81,
+        "chg1d": 1.84,
         "chg3d": 2.02
       },
       "달러인덱스": {
         "sym": "DX-Y.NYB",
-        "price": 99.38,
-        "chg1d": -0.32,
-        "chg3d": 0.21
+        "price": 99.43,
+        "chg1d": 0.27,
+        "chg3d": 0.26
       },
       "USD/KRW": {
         "sym": "KRW=X",
-        "price": 1380.45,
-        "chg1d": 0.0,
-        "chg3d": -0.08
+        "price": 1377.11,
+        "chg1d": -0.24,
+        "chg3d": -0.32
       },
       "WTI 원유": {
         "sym": "CL=F",
-        "price": 86.59,
-        "chg1d": 3.82,
-        "chg3d": 5.3
+        "price": 85.76,
+        "chg1d": 2.83,
+        "chg3d": 4.29
       },
       "금": {
         "sym": "GC=F",
-        "price": 4507.0,
-        "chg1d": 0.65,
-        "chg3d": -1.98
+        "price": 4431.1,
+        "chg1d": -1.05,
+        "chg3d": -3.63
       },
       "SPY": {
         "sym": "SPY",
