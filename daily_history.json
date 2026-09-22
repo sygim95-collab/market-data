@@ -225,7 +225,7 @@
   "2026-09-21": {
     "report_date": "2026-09-22",
     "ref_date": "2026-09-21",
-    "spy_mom": 5.9,
+    "spy_mom": 6.41,
     "ranked": [
       "Technology",
       "Health Care",
@@ -233,8 +233,8 @@
       "Financials",
       "Industrials",
       "Materials",
-      "Consumer Staples",
       "Real Estate",
+      "Consumer Staples",
       "Communication Services",
       "Consumer Discretionary",
       "Utilities"
@@ -256,10 +256,10 @@
       "MRVL",
       "INTC",
       "SNDK",
-      "CORT",
       "AMD",
-      "MU",
-      "MRNA"
+      "CORT",
+      "MRNA",
+      "MU"
     ],
     "prev_m7": [
       "MRVL",
@@ -273,38 +273,38 @@
     "m7_detail": [
       {
         "sym": "MRVL",
-        "mom": 77.6,
-        "wt": 18.6
+        "mom": 79.5,
+        "wt": 18.3
       },
       {
         "sym": "INTC",
-        "mom": 64.4,
-        "wt": 15.1
+        "mom": 69.3,
+        "wt": 15.8
       },
       {
         "sym": "SNDK",
-        "mom": 64.4,
-        "wt": 15.1
-      },
-      {
-        "sym": "CORT",
-        "mom": 58.0,
-        "wt": 13.5
+        "mom": 63.9,
+        "wt": 14.4
       },
       {
         "sym": "AMD",
-        "mom": 57.8,
-        "wt": 13.4
+        "mom": 61.7,
+        "wt": 13.9
       },
       {
-        "sym": "MU",
-        "mom": 52.9,
-        "wt": 12.2
+        "sym": "CORT",
+        "mom": 58.9,
+        "wt": 13.2
       },
       {
         "sym": "MRNA",
-        "mom": 52.5,
-        "wt": 12.1
+        "mom": 56.9,
+        "wt": 12.6
+      },
+      {
+        "sym": "MU",
+        "mom": 53.8,
+        "wt": 11.9
       }
     ],
     "top3": [
@@ -335,133 +335,133 @@
     "sector_detail": {
       "Technology": {
         "champ": "SOXX",
-        "score": 48.4,
+        "score": 55.7,
         "stocks": [
           {
             "sym": "MRVL",
-            "mom": 77.6
+            "mom": 79.5
           },
           {
             "sym": "INTC",
-            "mom": 64.4
+            "mom": 69.3
           },
           {
             "sym": "AMD",
-            "mom": 57.8
+            "mom": 61.7
           },
           {
             "sym": "MU",
-            "mom": 52.9
+            "mom": 53.8
           }
         ]
       },
       "Health Care": {
         "champ": "IBB",
-        "score": 29.3,
+        "score": 31.0,
         "stocks": [
           {
             "sym": "MRNA",
-            "mom": 52.5
+            "mom": 56.9
           },
           {
             "sym": "RVMD",
-            "mom": 29.9
+            "mom": 30.2
           },
           {
             "sym": "ILMN",
-            "mom": 25.0
+            "mom": 24.9
           },
           {
             "sym": "NTRA",
-            "mom": 24.4
+            "mom": 24.5
           }
         ]
       },
       "Energy": {
         "champ": "XLE",
-        "score": 26.7,
+        "score": 23.8,
         "stocks": [
           {
             "sym": "MPC",
-            "mom": 23.9
+            "mom": 21.8
           },
           {
             "sym": "VLO",
-            "mom": 21.9
+            "mom": 20.0
           },
           {
             "sym": "PSX",
-            "mom": 18.3
+            "mom": 16.7
           },
           {
             "sym": "TRGP",
-            "mom": 7.8
+            "mom": 7.5
           }
         ]
       },
       "Financials": {
-        "champ": "KBE",
-        "score": 9.9,
+        "champ": "KCE",
+        "score": 9.7,
         "stocks": [
           {
-            "sym": "FBP",
-            "mom": 11.4
+            "sym": "SNEX",
+            "mom": 24.0
           },
           {
-            "sym": "BPOP",
-            "mom": 8.4
+            "sym": "WT",
+            "mom": 22.7
           },
           {
-            "sym": "UMBF",
-            "mom": 8.2
+            "sym": "HOOD",
+            "mom": 22.2
           },
           {
-            "sym": "C",
-            "mom": 7.9
+            "sym": "STT",
+            "mom": 16.4
           }
         ]
       },
       "Industrials": {
         "champ": "IYT",
-        "score": 6.6,
+        "score": 6.0,
         "stocks": [
           {
-            "sym": "EXPD",
-            "mom": 9.6
-          },
-          {
             "sym": "DAL",
-            "mom": 9.3
+            "mom": 10.4
           },
           {
-            "sym": "CSX",
-            "mom": 8.2
+            "sym": "EXPD",
+            "mom": 9.8
           },
           {
             "sym": "UAL",
-            "mom": 7.7
+            "mom": 9.4
+          },
+          {
+            "sym": "JBHT",
+            "mom": 7.8
           }
         ]
       },
       "Materials": {
         "champ": "XLB",
-        "score": 5.4,
+        "score": 5.3,
         "stocks": [
           {
             "sym": "NUE",
-            "mom": 18.8
+            "mom": 18.0
           },
           {
             "sym": "STLD",
-            "mom": 15.8
+            "mom": 15.1
           },
           {
             "sym": "FCX",
-            "mom": 12.5
+            "mom": 12.7
           },
           {
             "sym": "NEM",
-            "mom": 9.8
+            "mom": 9.7
           }
         ]
       }
@@ -475,9 +475,9 @@
       },
       "달러인덱스": {
         "sym": "DX-Y.NYB",
-        "price": 100.41,
-        "chg1d": 0.19,
-        "chg3d": 0.1
+        "price": 100.43,
+        "chg1d": 0.21,
+        "chg3d": 0.12
       },
       "USD/KRW": {
         "sym": "KRW=X",
@@ -487,21 +487,21 @@
       },
       "WTI 원유": {
         "sym": "CL=F",
-        "price": 92.2,
-        "chg1d": -8.08,
-        "chg3d": -9.99
+        "price": 95.78,
+        "chg1d": -4.51,
+        "chg3d": -6.49
       },
       "금": {
         "sym": "GC=F",
-        "price": 4413.7,
-        "chg1d": -0.25,
-        "chg3d": 0.6
+        "price": 4383.9,
+        "chg1d": -0.93,
+        "chg3d": -0.08
       },
       "SPY": {
         "sym": "SPY",
-        "price": 761.69,
-        "chg1d": 0.0,
-        "chg3d": 1.26
+        "price": 773.5,
+        "chg1d": 1.55,
+        "chg3d": 2.83
       }
     }
   }
