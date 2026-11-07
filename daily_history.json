@@ -222,19 +222,19 @@
       }
     }
   },
-  "2026-11-05": {
-    "report_date": "2026-11-06",
-    "ref_date": "2026-11-05",
-    "spy_mom": 2.17,
+  "2026-11-06": {
+    "report_date": "2026-11-07",
+    "ref_date": "2026-11-06",
+    "spy_mom": 0.24,
     "ranked": [
-      "Technology",
       "Health Care",
       "Energy",
       "Consumer Staples",
-      "Materials",
       "Financials",
-      "Industrials",
+      "Materials",
       "Real Estate",
+      "Industrials",
+      "Technology",
       "Consumer Discretionary",
       "Utilities",
       "Communication Services"
@@ -255,11 +255,11 @@
     "m7": [
       "MRNA",
       "LQDA",
-      "PANW",
       "CRWD",
+      "PANW",
       "CORT",
-      "OSCR",
-      "NTRA"
+      "NTRA",
+      "FTNT"
     ],
     "prev_m7": [
       "MRVL",
@@ -273,195 +273,195 @@
     "m7_detail": [
       {
         "sym": "MRNA",
-        "mom": 102.9,
-        "wt": 36.4
+        "mom": 95.7,
+        "wt": 36.9
       },
       {
         "sym": "LQDA",
-        "mom": 41.5,
-        "wt": 14.2
-      },
-      {
-        "sym": "PANW",
-        "mom": 31.6,
-        "wt": 10.6
+        "mom": 37.6,
+        "wt": 14.4
       },
       {
         "sym": "CRWD",
-        "mom": 31.5,
-        "wt": 10.6
+        "mom": 29.9,
+        "wt": 11.4
+      },
+      {
+        "sym": "PANW",
+        "mom": 29.2,
+        "wt": 11.2
       },
       {
         "sym": "CORT",
-        "mom": 30.3,
-        "wt": 10.1
-      },
-      {
-        "sym": "OSCR",
-        "mom": 28.0,
-        "wt": 9.3
+        "mom": 25.9,
+        "wt": 9.9
       },
       {
         "sym": "NTRA",
-        "mom": 26.6,
-        "wt": 8.8
+        "mom": 21.7,
+        "wt": 8.3
+      },
+      {
+        "sym": "FTNT",
+        "mom": 20.5,
+        "wt": 7.8
       }
     ],
     "top3": [
-      "Technology",
       "Health Care",
-      "Energy"
+      "Energy",
+      "Consumer Staples"
     ],
     "sector_top4": {
-      "Technology": [
-        "AMD",
-        "MU",
-        "MRVL",
-        "TXN"
-      ],
       "Health Care": [
-        "MRNA",
-        "NTRA",
-        "ILMN",
-        "AMGN"
+        "TMO",
+        "ABBV",
+        "AMGN",
+        "LLY"
       ],
       "Energy": [
         "MPC",
         "VLO",
         "PSX",
         "CVX"
+      ],
+      "Consumer Staples": [
+        "KDP",
+        "MNST",
+        "TGT",
+        "KO"
       ]
     },
     "sector_detail": {
-      "Technology": {
-        "champ": "SOXX",
-        "score": 227.5,
-        "stocks": [
-          {
-            "sym": "AMD",
-            "mom": 14.7
-          },
-          {
-            "sym": "MU",
-            "mom": 11.1
-          },
-          {
-            "sym": "MRVL",
-            "mom": 4.2
-          },
-          {
-            "sym": "TXN",
-            "mom": 3.9
-          }
-        ]
-      },
       "Health Care": {
-        "champ": "IBB",
-        "score": 28.4,
+        "champ": "XLV",
+        "score": 23.3,
         "stocks": [
           {
-            "sym": "MRNA",
-            "mom": 102.9
+            "sym": "TMO",
+            "mom": 13.0
           },
           {
-            "sym": "NTRA",
-            "mom": 26.6
-          },
-          {
-            "sym": "ILMN",
-            "mom": 22.6
+            "sym": "ABBV",
+            "mom": 12.6
           },
           {
             "sym": "AMGN",
-            "mom": 14.3
+            "mom": 12.5
+          },
+          {
+            "sym": "LLY",
+            "mom": 12.0
           }
         ]
       },
       "Energy": {
         "champ": "XLE",
-        "score": 23.1,
+        "score": 19.9,
         "stocks": [
           {
             "sym": "MPC",
-            "mom": 17.1
+            "mom": 18.1
           },
           {
             "sym": "VLO",
-            "mom": 15.4
+            "mom": 17.1
           },
           {
             "sym": "PSX",
-            "mom": 14.4
+            "mom": 14.7
           },
           {
             "sym": "CVX",
-            "mom": 4.8
+            "mom": 5.5
           }
         ]
       },
       "Consumer Staples": {
         "champ": "XLP",
-        "score": 14.6,
+        "score": 13.9,
         "stocks": [
           {
-            "sym": "MNST",
+            "sym": "KDP",
             "mom": 9.6
           },
           {
-            "sym": "KDP",
-            "mom": 9.1
+            "sym": "MNST",
+            "mom": 8.1
           },
           {
             "sym": "TGT",
-            "mom": 8.9
-          },
-          {
-            "sym": "PM",
-            "mom": 8.1
-          }
-        ]
-      },
-      "Materials": {
-        "champ": "XLB",
-        "score": 12.4,
-        "stocks": [
-          {
-            "sym": "PPG",
-            "mom": 7.5
-          },
-          {
-            "sym": "ECL",
             "mom": 7.4
           },
           {
-            "sym": "SHW",
-            "mom": 6.4
-          },
-          {
-            "sym": "SW",
-            "mom": 6.3
+            "sym": "KO",
+            "mom": 7.1
           }
         ]
       },
       "Financials": {
         "champ": "KIE",
-        "score": 11.8,
+        "score": 11.1,
         "stocks": [
           {
             "sym": "OSCR",
-            "mom": 28.0
+            "mom": 19.4
           },
           {
             "sym": "BWIN",
-            "mom": 15.6
+            "mom": 16.9
           },
           {
             "sym": "SKWD",
-            "mom": 14.6
+            "mom": 16.3
           },
           {
             "sym": "THG",
-            "mom": 11.6
+            "mom": 11.2
+          }
+        ]
+      },
+      "Materials": {
+        "champ": "XLB",
+        "score": 9.0,
+        "stocks": [
+          {
+            "sym": "ECL",
+            "mom": 5.4
+          },
+          {
+            "sym": "PPG",
+            "mom": 4.3
+          },
+          {
+            "sym": "SHW",
+            "mom": 3.3
+          },
+          {
+            "sym": "SW",
+            "mom": 3.2
+          }
+        ]
+      },
+      "Real Estate": {
+        "champ": "XLRE",
+        "score": 4.3,
+        "stocks": [
+          {
+            "sym": "EXR",
+            "mom": 5.1
+          },
+          {
+            "sym": "PSA",
+            "mom": 4.7
+          },
+          {
+            "sym": "WELL",
+            "mom": 4.7
+          },
+          {
+            "sym": "SPG",
+            "mom": 4.4
           }
         ]
       }
@@ -469,39 +469,39 @@
     "macro": {
       "10Y 국채": {
         "sym": "^TNX",
-        "price": 4.84,
-        "chg1d": -1.16,
-        "chg3d": -1.16
+        "price": 4.86,
+        "chg1d": 0.45,
+        "chg3d": -1.88
       },
       "달러인덱스": {
         "sym": "DX-Y.NYB",
-        "price": 101.61,
-        "chg1d": 0.09,
-        "chg3d": -0.14
+        "price": 102.28,
+        "chg1d": 0.72,
+        "chg3d": 0.4
       },
       "USD/KRW": {
         "sym": "KRW=X",
-        "price": 1340.07,
-        "chg1d": -0.21,
-        "chg3d": 1.1
+        "price": 1356.34,
+        "chg1d": 1.21,
+        "chg3d": 0.86
       },
       "WTI 원유": {
         "sym": "CL=F",
-        "price": 91.19,
-        "chg1d": 3.48,
-        "chg3d": -5.46
+        "price": 90.34,
+        "chg1d": -0.2,
+        "chg3d": -5.98
       },
       "금": {
         "sym": "GC=F",
-        "price": 4076.9,
-        "chg1d": 0.1,
-        "chg3d": 2.7
+        "price": 4079.5,
+        "chg1d": -0.83,
+        "chg3d": 3.53
       },
       "SPY": {
         "sym": "SPY",
-        "price": 766.81,
+        "price": 733.0,
         "chg1d": 0.0,
-        "chg3d": 1.96
+        "chg3d": -2.83
       }
     }
   }
